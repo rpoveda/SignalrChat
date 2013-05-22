@@ -1,0 +1,80 @@
+c:\users\rafael.poveda\documents\visual studio 2012\Projects\_signalrCerto\_signalrCerto\bin\_signalrCerto.dll
+c:\users\rafael.poveda\documents\visual studio 2012\Projects\_signalrCerto\_signalrCerto\bin\_signalrCerto.pdb
+c:\users\rafael.poveda\documents\visual studio 2012\Projects\_signalrCerto\_signalrCerto\bin\Antlr3.Runtime.dll
+c:\users\rafael.poveda\documents\visual studio 2012\Projects\_signalrCerto\_signalrCerto\bin\EntityFramework.dll
+c:\users\rafael.poveda\documents\visual studio 2012\Projects\_signalrCerto\_signalrCerto\bin\Microsoft.AspNet.SignalR.Core.dll
+c:\users\rafael.poveda\documents\visual studio 2012\Projects\_signalrCerto\_signalrCerto\bin\Microsoft.AspNet.SignalR.Owin.dll
+c:\users\rafael.poveda\documents\visual studio 2012\Projects\_signalrCerto\_signalrCerto\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+c:\users\rafael.poveda\documents\visual studio 2012\Projects\_signalrCerto\_signalrCerto\bin\Microsoft.Owin.Host.SystemWeb.dll
+c:\users\rafael.poveda\documents\visual studio 2012\Projects\_signalrCerto\_signalrCerto\bin\Microsoft.Web.Infrastructure.dll
+c:\users\rafael.poveda\documents\visual studio 2012\Projects\_signalrCerto\_signalrCerto\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+c:\users\rafael.poveda\documents\visual studio 2012\Projects\_signalrCerto\_signalrCerto\bin\Newtonsoft.Json.dll
+c:\users\rafael.poveda\documents\visual studio 2012\Projects\_signalrCerto\_signalrCerto\bin\Owin.dll
+c:\users\rafael.poveda\documents\visual studio 2012\Projects\_signalrCerto\_signalrCerto\bin\System.Net.Http.Formatting.dll
+c:\users\rafael.poveda\documents\visual studio 2012\Projects\_signalrCerto\_signalrCerto\bin\System.Web.Http.dll
+c:\users\rafael.poveda\documents\visual studio 2012\Projects\_signalrCerto\_signalrCerto\bin\System.Web.Http.WebHost.dll
+c:\users\rafael.poveda\documents\visual studio 2012\Projects\_signalrCerto\_signalrCerto\bin\System.Web.Mvc.dll
+c:\users\rafael.poveda\documents\visual studio 2012\Projects\_signalrCerto\_signalrCerto\bin\System.Web.Optimization.dll
+c:\users\rafael.poveda\documents\visual studio 2012\Projects\_signalrCerto\_signalrCerto\bin\System.Web.Providers.dll
+c:\users\rafael.poveda\documents\visual studio 2012\Projects\_signalrCerto\_signalrCerto\bin\System.Web.Razor.dll
+c:\users\rafael.poveda\documents\visual studio 2012\Projects\_signalrCerto\_signalrCerto\bin\System.Web.WebPages.Deployment.dll
+c:\users\rafael.poveda\documents\visual studio 2012\Projects\_signalrCerto\_signalrCerto\bin\System.Web.WebPages.dll
+c:\users\rafael.poveda\documents\visual studio 2012\Projects\_signalrCerto\_signalrCerto\bin\System.Web.WebPages.Razor.dll
+c:\users\rafael.poveda\documents\visual studio 2012\Projects\_signalrCerto\_signalrCerto\bin\WebGrease.dll
+c:\users\rafael.poveda\documents\visual studio 2012\Projects\_signalrCerto\_signalrCerto\bin\Microsoft.AspNet.SignalR.Core.xml
+c:\users\rafael.poveda\documents\visual studio 2012\Projects\_signalrCerto\_signalrCerto\bin\Microsoft.AspNet.SignalR.Owin.xml
+c:\users\rafael.poveda\documents\visual studio 2012\Projects\_signalrCerto\_signalrCerto\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+c:\users\rafael.poveda\documents\visual studio 2012\Projects\_signalrCerto\_signalrCerto\bin\Microsoft.Owin.Host.SystemWeb.xml
+c:\users\rafael.poveda\documents\visual studio 2012\Projects\_signalrCerto\_signalrCerto\bin\EntityFramework.xml
+c:\users\rafael.poveda\documents\visual studio 2012\Projects\_signalrCerto\_signalrCerto\bin\Newtonsoft.Json.xml
+c:\users\rafael.poveda\documents\visual studio 2012\Projects\_signalrCerto\_signalrCerto\bin\System.Net.Http.Formatting.xml
+c:\users\rafael.poveda\documents\visual studio 2012\Projects\_signalrCerto\_signalrCerto\bin\System.Web.Http.xml
+c:\users\rafael.poveda\documents\visual studio 2012\Projects\_signalrCerto\_signalrCerto\bin\System.Web.Http.WebHost.xml
+c:\users\rafael.poveda\documents\visual studio 2012\Projects\_signalrCerto\_signalrCerto\bin\System.Web.Mvc.xml
+c:\users\rafael.poveda\documents\visual studio 2012\Projects\_signalrCerto\_signalrCerto\bin\System.Web.Razor.xml
+c:\users\rafael.poveda\documents\visual studio 2012\Projects\_signalrCerto\_signalrCerto\bin\System.Web.WebPages.xml
+c:\users\rafael.poveda\documents\visual studio 2012\Projects\_signalrCerto\_signalrCerto\bin\System.Web.WebPages.Deployment.xml
+c:\users\rafael.poveda\documents\visual studio 2012\Projects\_signalrCerto\_signalrCerto\bin\System.Web.WebPages.Razor.xml
+c:\users\rafael.poveda\documents\visual studio 2012\Projects\_signalrCerto\_signalrCerto\obj\Debug\_signalrCerto.csprojResolveAssemblyReference.cache
+c:\users\rafael.poveda\documents\visual studio 2012\Projects\_signalrCerto\_signalrCerto\obj\Debug\_signalrCerto.dll
+c:\users\rafael.poveda\documents\visual studio 2012\Projects\_signalrCerto\_signalrCerto\obj\Debug\_signalrCerto.pdb
+C:\Users\rpoveda\Desktop\_signalrCerto\_signalrCerto\bin\_signalrCerto.dll
+C:\Users\rpoveda\Desktop\_signalrCerto\_signalrCerto\bin\_signalrCerto.pdb
+C:\Users\rpoveda\Desktop\_signalrCerto\_signalrCerto\bin\Antlr3.Runtime.dll
+C:\Users\rpoveda\Desktop\_signalrCerto\_signalrCerto\bin\EntityFramework.dll
+C:\Users\rpoveda\Desktop\_signalrCerto\_signalrCerto\bin\Microsoft.AspNet.SignalR.Core.dll
+C:\Users\rpoveda\Desktop\_signalrCerto\_signalrCerto\bin\Microsoft.AspNet.SignalR.Owin.dll
+C:\Users\rpoveda\Desktop\_signalrCerto\_signalrCerto\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+C:\Users\rpoveda\Desktop\_signalrCerto\_signalrCerto\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\rpoveda\Desktop\_signalrCerto\_signalrCerto\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\rpoveda\Desktop\_signalrCerto\_signalrCerto\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\Users\rpoveda\Desktop\_signalrCerto\_signalrCerto\bin\Newtonsoft.Json.dll
+C:\Users\rpoveda\Desktop\_signalrCerto\_signalrCerto\bin\Owin.dll
+C:\Users\rpoveda\Desktop\_signalrCerto\_signalrCerto\bin\System.Net.Http.Formatting.dll
+C:\Users\rpoveda\Desktop\_signalrCerto\_signalrCerto\bin\System.Web.Http.dll
+C:\Users\rpoveda\Desktop\_signalrCerto\_signalrCerto\bin\System.Web.Http.WebHost.dll
+C:\Users\rpoveda\Desktop\_signalrCerto\_signalrCerto\bin\System.Web.Mvc.dll
+C:\Users\rpoveda\Desktop\_signalrCerto\_signalrCerto\bin\System.Web.Optimization.dll
+C:\Users\rpoveda\Desktop\_signalrCerto\_signalrCerto\bin\System.Web.Providers.dll
+C:\Users\rpoveda\Desktop\_signalrCerto\_signalrCerto\bin\System.Web.Razor.dll
+C:\Users\rpoveda\Desktop\_signalrCerto\_signalrCerto\bin\System.Web.WebPages.Deployment.dll
+C:\Users\rpoveda\Desktop\_signalrCerto\_signalrCerto\bin\System.Web.WebPages.dll
+C:\Users\rpoveda\Desktop\_signalrCerto\_signalrCerto\bin\System.Web.WebPages.Razor.dll
+C:\Users\rpoveda\Desktop\_signalrCerto\_signalrCerto\bin\WebGrease.dll
+C:\Users\rpoveda\Desktop\_signalrCerto\_signalrCerto\bin\Microsoft.AspNet.SignalR.Core.xml
+C:\Users\rpoveda\Desktop\_signalrCerto\_signalrCerto\bin\Microsoft.AspNet.SignalR.Owin.xml
+C:\Users\rpoveda\Desktop\_signalrCerto\_signalrCerto\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+C:\Users\rpoveda\Desktop\_signalrCerto\_signalrCerto\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\rpoveda\Desktop\_signalrCerto\_signalrCerto\bin\EntityFramework.xml
+C:\Users\rpoveda\Desktop\_signalrCerto\_signalrCerto\bin\Newtonsoft.Json.xml
+C:\Users\rpoveda\Desktop\_signalrCerto\_signalrCerto\bin\System.Net.Http.Formatting.xml
+C:\Users\rpoveda\Desktop\_signalrCerto\_signalrCerto\bin\System.Web.Http.xml
+C:\Users\rpoveda\Desktop\_signalrCerto\_signalrCerto\bin\System.Web.Http.WebHost.xml
+C:\Users\rpoveda\Desktop\_signalrCerto\_signalrCerto\bin\System.Web.Mvc.xml
+C:\Users\rpoveda\Desktop\_signalrCerto\_signalrCerto\bin\System.Web.Razor.xml
+C:\Users\rpoveda\Desktop\_signalrCerto\_signalrCerto\bin\System.Web.WebPages.xml
+C:\Users\rpoveda\Desktop\_signalrCerto\_signalrCerto\bin\System.Web.WebPages.Deployment.xml
+C:\Users\rpoveda\Desktop\_signalrCerto\_signalrCerto\bin\System.Web.WebPages.Razor.xml
+C:\Users\rpoveda\Desktop\_signalrCerto\_signalrCerto\obj\Debug\_signalrCerto.csprojResolveAssemblyReference.cache
+C:\Users\rpoveda\Desktop\_signalrCerto\_signalrCerto\obj\Debug\_signalrCerto.dll
+C:\Users\rpoveda\Desktop\_signalrCerto\_signalrCerto\obj\Debug\_signalrCerto.pdb
